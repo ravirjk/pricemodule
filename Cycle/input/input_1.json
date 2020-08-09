@@ -1,0 +1,21 @@
+{
+	"id":"1",
+	"year":"2020",
+	"frame":"STEEL",
+	"handle":{
+		"style":"true",
+		"discBrake":"false",
+		"bell":"true"
+	},
+	"seat":"FOAM",
+	"wheel":{
+		"rim":"ALLOY",
+		"spokes":"false",
+		"tube":"true",
+		"tyre":"MRF"
+	},
+	"chain":{
+		"isGear":"true",
+		"gear":"4"
+	}
+}

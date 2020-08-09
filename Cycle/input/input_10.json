@@ -1,0 +1,212 @@
+[
+{
+	"id":"1",
+	"year":"2020",
+	"frame":"STEEL",
+	"handle":{
+		"style":"true",
+		"discBrake":"false",
+		"bell":"true"
+	},
+	"seat":"FOAM",
+	"wheel":{
+		"rim":"ALLOY",
+		"spokes":"false",
+		"tube":"true",
+		"tyre":"MRF"
+	},
+	"chain":{
+		"isGear":"true",
+		"gear":"4"
+	}
+},
+{
+	"id":"2",
+	"year":"2021",
+	"frame":"ALUMINUM",
+	"handle":{
+		"style":"true",
+		"discBrake":"true",
+		"bell":"false"
+	},
+	"seat":"PLASTIC",
+	"wheel":{
+		"rim":"STEEL",
+		"spokes":"true",
+		"tube":"true",
+		"tyre":"CEAT"
+	},
+	"chain":{
+		"isGear":"true",
+		"gear":"3"
+	}
+},
+{
+	"id":"3",
+	"year":"2020",
+	"frame":"TITANIUM",
+	"handle":{
+		"style":"false",
+		"discBrake":"false",
+		"bell":"true"
+	},
+	"seat":"FOAM",
+	"wheel":{
+		"rim":"ALUMINUM",
+		"spokes":"false",
+		"tube":"false",
+		"tyre":"HERO"
+	},
+	"chain":{
+		"isGear":"false",
+		"gear":"1"
+	}
+},
+{
+	"id":"4",
+	"year":"2015",
+	"frame":"FIBER",
+	"handle":{
+		"style":"true",
+		"discBrake":"false",
+		"bell":"false"
+	},
+	"seat":"FIBER",
+	"wheel":{
+		"rim":"ALUMINUM",
+		"spokes":"true",
+		"tube":"false",
+		"tyre":"HERO"
+	},
+	"chain":{
+		"isGear":"false",
+		"gear":"1"
+	}
+},
+{
+	"id":"5",
+	"year":"2016",
+	"frame":"ALUMINUM",
+	"handle":{
+		"style":"true",
+		"discBrake":"true",
+		"bell":"true"
+	},
+	"seat":"FOAM",
+	"wheel":{
+		"rim":"ALLOY",
+		"spokes":"false",
+		"tube":"false",
+		"tyre":"MRF"
+	},
+	"chain":{
+		"isGear":"true",
+		"gear":"5"
+	}
+},
+{
+	"id":"6",
+	"year":"2017",
+	"frame":"STEEL",
+	"handle":{
+		"style":"false",
+		"discBrake":"false",
+		"bell":"false"
+	},
+	"seat":"PLASTIC",
+	"wheel":{
+		"rim":"STEEL",
+		"spokes":"true",
+		"tube":"true",
+		"tyre":"CEAT"
+	},
+	"chain":{
+		"isGear":"true",
+		"gear":"6"
+	}
+},
+{
+	"id":"7",
+	"year":"2018",
+	"frame":"TITANIUM",
+	"handle":{
+		"style":"false",
+		"discBrake":"false",
+		"bell":"true"
+	},
+	"seat":"PLASTIC",
+	"wheel":{
+		"rim":"STEEL",
+		"spokes":"true",
+		"tube":"false",
+		"tyre":"MRF"
+	},
+	"chain":{
+		"isGear":"true",
+		"gear":"4"
+	}
+},
+{
+	"id":"8",
+	"year":"2019",
+	"frame":"STEEL",
+	"handle":{
+		"style":"true",
+		"discBrake":"true",
+		"bell":"true"
+	},
+	"seat":"FOAM",
+	"wheel":{
+		"rim":"ALLOY",
+		"spokes":"false",
+		"tube":"true",
+		"tyre":"CEAT"
+	},
+	"chain":{
+		"isGear":"true",
+		"gear":"3"
+	}
+},
+{
+	"id":"9",
+	"year":"2019",
+	"frame":"TITANIUM",
+	"handle":{
+		"style":"true",
+		"discBrake":"false",
+		"bell":"false"
+	},
+	"seat":"FIBER",
+	"wheel":{
+		"rim":"ALUMINUM",
+		"spokes":"true",
+		"tube":"false",
+		"tyre":"MRF"
+	},
+	"chain":{
+		"isGear":"true",
+		"gear":"6"
+	}
+},
+{
+	"id":"10",
+	"year":"2020",
+	"frame":"FIBER",
+	"handle":{
+		"style":"true",
+		"discBrake":"false",
+		"bell":"true"
+	},
+	"seat":"FOAM",
+	"wheel":{
+		"rim":"ALLOY",
+		"spokes":"false",
+		"tube":"true",
+		"tyre":"HERO"
+	},
+	"chain":{
+		"isGear":"true",
+		"gear":"5"
+	}
+}
+]
